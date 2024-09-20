@@ -851,6 +851,7 @@ body {
 
   .footer-form {
     position: relative;
+    width: fit-content;
   }
 
   .footer-left input {
@@ -876,7 +877,7 @@ body {
     border-radius: 50%;
     cursor: pointer;
     position: absolute;
-    left: 59%;
+    left: 87%;
     top: 12%;
   }
 
